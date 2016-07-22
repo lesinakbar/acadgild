@@ -1,4 +1,4 @@
-/*
+/* Program date : 22/07/2016
  * Program to print the sum of two numbers. One number should be int and another should be float
  * The sum of two numbers should be in integer.
  */
